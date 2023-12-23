@@ -1,0 +1,8 @@
+Pillow==9.4.0
+streamlit==1.20.0
+easyocr==1.6.2
+pandas
+numpy==1.24.2
+matplotlib==3.7.1
+altair<5 
+captcha==0.5.0
